@@ -1,0 +1,6 @@
+C:\Users\diego.oliveira\source\repos\RPS\RpsCore\bin\Debug\RpsCore.dll
+C:\Users\diego.oliveira\source\repos\RPS\RpsCore\bin\Debug\RpsCore.pdb
+C:\Users\diego.oliveira\source\repos\RPS\RpsCore\obj\Debug\RpsCore.csproj.CoreCompileInputs.cache
+C:\Users\diego.oliveira\source\repos\RPS\RpsCore\obj\Debug\RpsCore.dll
+C:\Users\diego.oliveira\source\repos\RPS\RpsCore\obj\Debug\RpsCore.pdb
+C:\Users\diego.oliveira\source\repos\RPS\RpsCore\obj\Debug\RpsCore.csprojAssemblyReference.cache

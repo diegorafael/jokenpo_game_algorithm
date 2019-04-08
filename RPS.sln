@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpsClient", "RPS\RpsClient.csproj", "{96D0502E-52C7-4D2C-92E5-A403F7D7E738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpsCore", "RpsCore\RpsCore.csproj", "{7ECB2C07-7AB8-459D-8F15-41A677EB50BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RpsCoreTests", "RpsCoreTests\RpsCoreTests.csproj", "{E5BF4F4A-E3DD-4908-BF0B-BF58B27694BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96D0502E-52C7-4D2C-92E5-A403F7D7E738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D0502E-52C7-4D2C-92E5-A403F7D7E738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D0502E-52C7-4D2C-92E5-A403F7D7E738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D0502E-52C7-4D2C-92E5-A403F7D7E738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ECB2C07-7AB8-459D-8F15-41A677EB50BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECB2C07-7AB8-459D-8F15-41A677EB50BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECB2C07-7AB8-459D-8F15-41A677EB50BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECB2C07-7AB8-459D-8F15-41A677EB50BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5BF4F4A-E3DD-4908-BF0B-BF58B27694BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BF4F4A-E3DD-4908-BF0B-BF58B27694BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BF4F4A-E3DD-4908-BF0B-BF58B27694BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BF4F4A-E3DD-4908-BF0B-BF58B27694BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A81149CC-90D1-4A44-B54A-80065480CD24}
+	EndGlobalSection
+EndGlobal

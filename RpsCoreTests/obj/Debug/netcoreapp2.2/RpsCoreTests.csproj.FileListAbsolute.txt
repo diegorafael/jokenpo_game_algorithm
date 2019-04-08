@@ -1,0 +1,17 @@
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\RpsCoreTests.deps.json
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\RpsCoreTests.runtimeconfig.json
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\RpsCoreTests.runtimeconfig.dev.json
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\RpsCoreTests.dll
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\RpsCoreTests.pdb
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\RpsCore.dll
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\bin\Debug\netcoreapp2.2\RpsCore.pdb
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\obj\Debug\netcoreapp2.2\RpsCoreTests.csprojAssemblyReference.cache
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\obj\Debug\netcoreapp2.2\RpsCoreTests.csproj.CoreCompileInputs.cache
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\obj\Debug\netcoreapp2.2\RpsCoreTests.AssemblyInfoInputs.cache
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\obj\Debug\netcoreapp2.2\RpsCoreTests.AssemblyInfo.cs
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\obj\Debug\netcoreapp2.2\RpsCoreTests.csproj.CopyComplete
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\obj\Debug\netcoreapp2.2\RpsCoreTests.dll
+C:\Users\diego.oliveira\source\repos\RPS\RpsCoreTests\obj\Debug\netcoreapp2.2\RpsCoreTests.pdb

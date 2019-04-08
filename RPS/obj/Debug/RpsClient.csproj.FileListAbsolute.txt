@@ -1,0 +1,10 @@
+C:\Users\diego.oliveira\source\repos\RPS\RPS\bin\Debug\RpsClient.exe.config
+C:\Users\diego.oliveira\source\repos\RPS\RPS\bin\Debug\RpsClient.exe
+C:\Users\diego.oliveira\source\repos\RPS\RPS\bin\Debug\RpsClient.pdb
+C:\Users\diego.oliveira\source\repos\RPS\RPS\bin\Debug\RpsCore.dll
+C:\Users\diego.oliveira\source\repos\RPS\RPS\bin\Debug\RpsCore.pdb
+C:\Users\diego.oliveira\source\repos\RPS\RPS\obj\Debug\RpsClient.csprojAssemblyReference.cache
+C:\Users\diego.oliveira\source\repos\RPS\RPS\obj\Debug\RpsClient.csproj.CoreCompileInputs.cache
+C:\Users\diego.oliveira\source\repos\RPS\RPS\obj\Debug\RpsClient.csproj.CopyComplete
+C:\Users\diego.oliveira\source\repos\RPS\RPS\obj\Debug\RpsClient.exe
+C:\Users\diego.oliveira\source\repos\RPS\RPS\obj\Debug\RpsClient.pdb
